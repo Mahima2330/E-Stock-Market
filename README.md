@@ -1,6 +1,6 @@
 # E-Stock-Market-Application
 
-A Stock Market Full Stack Application to register and check all the company details and its related stocks.
+A Stock Market Full Stack Application to register and check all the company details and its related stocks. by mahi
 
 This repository contains 3 different folders mentioned below:
 
